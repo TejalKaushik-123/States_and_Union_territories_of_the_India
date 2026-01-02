@@ -1,1 +1,1 @@
-# States_and-_Union_territory_of_the_India
+# States and Union territory of the India
