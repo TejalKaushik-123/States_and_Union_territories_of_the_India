@@ -3,3 +3,7 @@
     text-decoration: double underline;
     text-align: center;
 }
+
+body {
+    background-color: lightblue;
+}
