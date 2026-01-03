@@ -169,3 +169,8 @@ body {
     flex-wrap: nowrap;
     text-align: center;
 }
+
+.sta_ui_link {
+    text-decoration: none;
+    margin: 20px;
+}
