@@ -159,5 +159,13 @@ body {
     width: 250px;
     height: 125px;
     border-radius: 15%;
-    background: linear-gradient(to right, #0d0d48, #0e0e74, #1212aa); 
+    background: linear-gradient(to right, #0d0d48, #0e0e74, #1212aa);
+    font-size: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    text-align: center;
 }
