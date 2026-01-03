@@ -76,3 +76,8 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+#second_heading {
+    text-align: center;
+    font-size: 40px;
+}
