@@ -1,8 +1,11 @@
+* {
+    color: white;
+}
+
 #main_heading {
     font-size: 100px;
     text-decoration: double underline;
     text-align: center;
-    color: black
 }
 
 @media (max-width: 600px) and (min-width: 551px) {
@@ -64,4 +67,8 @@
     #main_heading {
         font-size: 50px;
     }
+}
+
+body {
+    background: linear-gradient(to right bottom, #000000,#03033e, #05056f, #17078c , #2f2fe7f2);
 }
