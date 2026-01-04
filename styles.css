@@ -68,6 +68,8 @@
 
 body {
     background: linear-gradient(to right bottom, orange, orange, white, white, blue, white, white, green, green);
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
 #main_section_div {
