@@ -172,6 +172,7 @@ body {
     flex-direction: column;
     flex-wrap: nowrap;
     text-align: center;
+    background-attachment: fixed;
 }
 
 .sta_ui_link {
