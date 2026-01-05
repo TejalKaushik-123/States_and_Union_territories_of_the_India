@@ -72,7 +72,7 @@
 body {
     background: linear-gradient(to right bottom, #000000,#03033e, #05056f, #17078c , #2f2fe7f2);
     background-repeat: no-repeat;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 #para {
