@@ -160,9 +160,9 @@ body {
 }
 
 .sta_ui {
-    width: 250px;
-    height: 125px;
-    border-radius: 15%;
+    width: 300px;
+    height: 150px;
+    border-radius: 17%;
     background: linear-gradient(to right, #0d0d48, #0e0e74, #1212aa);
     font-size: 40px;
     color: white;
