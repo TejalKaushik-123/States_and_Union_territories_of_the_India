@@ -68,3 +68,11 @@
         font-size: 50px;
     }
 }
+
+
+body {
+    background: linear-gradient(to right bottom, #000000, #033603, #015101, #079007, #04ff047e);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
