@@ -75,3 +75,8 @@ body {
     min-height: 100vh;
     background-attachment: fixed;
 }
+
+#para {
+    text-align: center;
+    font-size: 40px;
+}
